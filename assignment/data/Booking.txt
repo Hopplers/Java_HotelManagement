@@ -1,0 +1,8 @@
+Booking ID,Check-In Date,Check-Out Date,Room ID,Name,Contact Number,Email,IC/Passport,Nationality,
+BK0002,13/05/2023,20/05/2023,R104,Sean,0122976329,sia@gmail.com,052627101477,Malaysian,
+BK0008,06/05/2023,07/05/2023,R107,ImaNewName,0852963741,soh@email.com,NJHL5678,Foreigner,
+BK0013,12/05/2023,13/05/2023,R103,Sia,123456789,isaprank@hotmail.com,CF4568,Foreigner,
+BK0016,14/05/2023,16/05/2023,R109,Ian,0122475896,Ian@gmail.com,030614101475,Malaysian,
+BK0017,20/05/2023,21/05/2023,R106,Jane,621478569,Jane@gmail.com,KMI2589,Foreigner,
+BK0018,19/05/2023,21/05/2023,R107,Jason,0123456789,jason818@gmail.com,010714101475,Malaysian,
+BK0019,18/05/2023,20/05/2023,R106,Sia ,0123456789,siaji526@gmail.com,030526101007,Malaysian,
